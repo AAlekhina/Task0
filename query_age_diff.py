@@ -42,3 +42,5 @@ with open('query_age_diff.json', 'w') as f:
     json.dump(data, f, indent = 4)
 print('succsesfully')
 session.close()
+print('hello')
+def
